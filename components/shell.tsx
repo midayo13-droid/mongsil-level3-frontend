@@ -27,7 +27,7 @@ const NEWS: NavItem[] = [
 // 사장님만 쓰는 메뉴: 위 메뉴와 겹치지 않는 것만 모았어요.
 // (고객·미용 기록·공지·이벤트의 등록·수정·삭제는 위 화면 안에서 사장님에게만 버튼이 보여요.)
 const MANAGE: NavItem[] = [
-  { href: "/admin/accounts", label: "고객 관리", icon: "👥" },
+  { href: "/admin/accounts", label: "회원 관리", icon: "👥" },
   { href: "/admin/groomers", label: "관리사 관리", icon: "💇" },
   { href: "/admin/closed-days", label: "휴무일 관리", icon: "🚫" },
   { href: "/admin/reseed", label: "가상 데이터", icon: "♻️" },

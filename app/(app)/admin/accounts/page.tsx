@@ -28,7 +28,7 @@ export default function CustomerAccountsPage() {
 
   return (
     <>
-      <PageHead title="고객 관리" sub="고객이 직접 가입하면 여기에 나타나요. 관리사 로그인 계정은 '관리사 관리' 화면에서 만들어요.">
+      <PageHead title="회원 관리" sub="고객이 직접 가입하면 여기에 나타나요. 관리사 로그인 계정은 '관리사 관리' 화면에서 만들어요.">
         <Link href="/admin/groomers" className="btn">
           관리사 관리 화면으로
         </Link>

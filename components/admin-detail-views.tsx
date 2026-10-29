@@ -169,9 +169,9 @@ export function CustomerDetailView({ id }: { id: number }) {
   const g = data?.guardian;
   return (
     <>
-      <PageHead title="고객 상세">
+      <PageHead title="회원 상세">
         <Link href="/admin/accounts" className="btn">
-          ← 고객 관리
+          ← 회원 관리
         </Link>
         {g && (
           <Link href={`/guardians/${g.id}/edit`} className="btn">
