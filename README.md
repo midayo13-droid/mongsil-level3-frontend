@@ -3,7 +3,8 @@
 **관리자 화면**(사장님·관리사)과 **고객용 화면**(손님, 휴대폰 중심)을 한 사이트에서 **로그인한 역할에 따라** 다르게 보여 줘요.
 Next.js로 만들었고 **Vercel**에 올리도록 준비했어요. Level 1 사이트와 데이터는 같지만 화면은 새로 만들었어요.
 
-- 서버(백엔드) 저장소: `mongsil-level3-backend`
+- **배포된 사이트**: https://mongsil-level3-frontend.vercel.app
+- 서버(백엔드) 주소: https://mongsil-level3-backend.onrender.com (저장소 `mongsil-level3-backend`)
 - 이 저장소(프론트엔드): `mongsil-level3-frontend`
 - 문서: [기획서.md](./기획서.md) · [디자인가이드.md](./디자인가이드.md) · [메뉴구조도_IA.md](./메뉴구조도_IA.md)
 
